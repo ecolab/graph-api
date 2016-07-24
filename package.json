@@ -1,0 +1,23 @@
+{
+  "name": "graph-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecolab/graph-api.git"
+  },
+  "keywords": [
+    "graph",
+    "api"
+  ],
+  "author": "Hieu Tran <hieu.tranduc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecolab/graph-api/issues"
+  },
+  "homepage": "https://github.com/ecolab/graph-api#readme"
+}
